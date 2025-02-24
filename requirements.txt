@@ -1,0 +1,6 @@
+flask
+folium
+pandas
+openpyxl
+googlemaps
+gunicorn
