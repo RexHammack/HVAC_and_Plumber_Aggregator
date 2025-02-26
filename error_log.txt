@@ -1,0 +1,828 @@
+[2025-02-25 16:40:30] ⚠️ Website Scraping Error: Cannot connect to host sosplumbinganddrain.com:443 ssl:default [Domain name not found]
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ⚠️ Website Scraping Error: Cannot connect to host www.mackheatingandcooling.com:443 ssl:default [An existing connection was forcibly closed by the remote host]
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:35] ⚠️ Website Scraping Error: Cannot connect to host www.rescueheatingandcoolingllc.com:443 ssl:default [An existing connection was forcibly closed by the remote host]
+[2025-02-25 16:40:36] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:36] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:36] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:36] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:36] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:36] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:37] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:38] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:38] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:39] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:40] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:41] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:42] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:43] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:43] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:43] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:43] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:44] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:44] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:45] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:45] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:46] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:46] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:46] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:40:47] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:47] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:47] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:47] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:47] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:40:48] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:48] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:48] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:48] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:49] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:49] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:49] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:49] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:49] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:49] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ⚠️ Website Scraping Error: Cannot connect to host www.mackheatingandcooling.com:443 ssl:default [None]
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:50] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:51] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ⚠️ Website Scraping Error: Cannot connect to host perfectoplumber.com:443 ssl:default [None]
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:52] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:40:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:53] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:54] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:54] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:54] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:55] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:55] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:55] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:56] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:57] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:57] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:57] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:57] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:58] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:40:59] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:00] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:00] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:00] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:00] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:02] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:03] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:03] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:03] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:03] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:03] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:09] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:09] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:13] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:23] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:41:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:42:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:03] ⚠️ Website Scraping Error: Cannot connect to host sosplumbinganddrain.com:443 ssl:default [Domain name not found]
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:04] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:05] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:06] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:07] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:08] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:09] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:09] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:10] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:11] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:12] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:13] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ⚠️ Website Scraping Error: Cannot connect to host callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:14] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:15] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:16] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:17] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ⚠️ Website Scraping Error: Cannot connect to host perfectoplumber.com:443 ssl:default [None]
+[2025-02-25 16:46:18] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:18] ⚠️ Website Scraping Error: Cannot connect to host perfectoplumber.com:443 ssl:default [None]
+[2025-02-25 16:46:19] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:19] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:19] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:19] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:19] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:20] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:21] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ⚠️ Website Scraping Error: Cannot connect to host www.wilsonheatingandcooling.com:443 ssl:default [None]
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:22] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:23] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:23] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:23] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:23] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:23] ⚠️ Website Scraping Error: Cannot connect to host www.callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:24] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:25] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:26] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:27] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:28] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:29] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:29] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:29] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:30] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:31] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:32] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:33] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:34] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:35] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:41] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:46:52] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:47:01] ❌ Google API Error: API key not valid. Please pass a valid API key.
+[2025-02-25 16:51:05] ⚠️ BBB Search Error: 
+[2025-02-25 16:51:05] ⚠️ BBB Search Error: 
+[2025-02-25 16:51:07] ⚠️ BBB Search Error: 
+[2025-02-25 16:51:07] ⚠️ BBB Search Error: 
+[2025-02-25 16:51:08] ⚠️ BBB Search Error: 
+[2025-02-25 16:51:08] ⚠️ BBB Search Error: 
+[2025-02-25 16:51:08] ⚠️ BBB Search Error: 
+[2025-02-25 16:53:43] ⚠️ Website Scraping Error: Cannot connect to host sosplumbinganddrain.com:443 ssl:default [Domain name not found]
+[2025-02-25 16:53:45] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:53:56] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:54:06] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:06] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:06] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:06] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:06] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:06] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:07] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:54:07] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:54:18] ⚠️ Website Scraping Error: Cannot connect to host www.mackheatingandcooling.com:443 ssl:default [None]
+[2025-02-25 16:54:18] ⚠️ Website Scraping Error: Cannot connect to host www.mackheatingandcooling.com:443 ssl:default [None]
+[2025-02-25 16:54:18] ⚠️ Website Scraping Error: Connection timeout to host http://www.standard-heating.com/
+[2025-02-25 16:54:18] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:54:38] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:54:58] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://www.rescueheatingandcoolingllc.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://www.mackheatingandcooling.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://stoudenmireheating.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://www.hollisplumbing.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://www.qpheatingandair.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://www.hollisplumbing.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://www.rescueheatingandcoolingllc.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://stoudenmireheating.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://mcmechanicalhvac.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://coolcarehvac.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://mcmechanicalhvac.com/
+[2025-02-25 16:55:20] ⚠️ Website Scraping Error: Connection timeout to host https://coolcarehvac.com/
+[2025-02-25 16:55:22] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:55:32] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:55:42] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:55:52] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:56:02] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:56:12] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:56:12] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:56:13] ⚠️ Website Scraping Error: Cannot write to closing transport
+[2025-02-25 16:56:13] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:56:23] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:56:33] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:56:43] ⚠️ Google API Request Error: 'snippet'
+[2025-02-25 16:58:08] ⚠️ Website Scraping Error: Cannot connect to host sosplumbinganddrain.com:443 ssl:default [Domain name not found]
+[2025-02-25 16:58:09] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:18] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:18] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 16:58:24] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:00] ⚠️ Website Scraping Error: Cannot connect to host sosplumbinganddrain.com:443 ssl:default [Domain name not found]
+[2025-02-25 17:02:03] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:06] ⚠️ Website Scraping Error: Cannot connect to host www.callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 17:02:08] ⚠️ Website Scraping Error: Cannot connect to host www.callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 17:02:09] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:09] ⚠️ Website Scraping Error: Cannot connect to host www.callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 17:02:11] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:11] ⚠️ Website Scraping Error: Cannot connect to host wilsonheatingandcooling.com:443 ssl:default [None]
+[2025-02-25 17:02:11] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:11] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:12] ⚠️ Website Scraping Error: Cannot connect to host wilsonheatingandcooling.com:443 ssl:default [None]
+[2025-02-25 17:02:13] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:13] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:13] ⚠️ Website Scraping Error: Cannot connect to host www.callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 17:02:15] ⚠️ Website Scraping Error: Cannot connect to host perfectoplumber.com:443 ssl:default [None]
+[2025-02-25 17:02:17] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:19] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:20] ⚠️ Website Scraping Error: Server disconnected
+[2025-02-25 17:02:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:20] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:21] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ⚠️ Website Scraping Error: [WinError 10054] An existing connection was forcibly closed by the remote host
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:22] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ⚠️ Website Scraping Error: Cannot connect to host www.callcrewplumbing.com:443 ssl:default [None]
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:23] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:25] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:27] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:28] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:28] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:28] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:28] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:28] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:29] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:29] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:29] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:29] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:29] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:30] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:30] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:30] ⚠️ Website Scraping Error: Connection timeout to host https://www.midlandair.com/?utm_source=google-business-profile&utm_medium=organic&utm_campaign=business-listing&utm_content=midland
+[2025-02-25 17:02:30] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:30] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:31] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:31] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:31] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ⚠️ Website Scraping Error: Connection timeout to host https://www.atdhvac.com/
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:32] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:33] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:33] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:33] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:33] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:33] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:34] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:35] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:36] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:37] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:37] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:38] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:38] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:38] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:39] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:40] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:40] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:40] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:41] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:42] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:42] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:02:43] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:03:03] ❌ Google API Error: Quota exceeded for quota metric 'Queries' and limit 'Queries per minute per user' of service 'customsearch.googleapis.com' for consumer 'project_number:826031190184'.
+[2025-02-25 17:07:06] ⚠️ BBB Search Error: 
+[2025-02-25 17:07:08] ⚠️ BBB Search Error: 
+[2025-02-25 17:07:08] ⚠️ BBB Search Error: 
+[2025-02-25 17:07:19] ⚠️ BBB Search Error: 
